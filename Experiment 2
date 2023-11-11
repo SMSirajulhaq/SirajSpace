@@ -1,0 +1,149 @@
+<html> 
+	<head> 
+		<style>	
+			body	{ background-color: ffe1a8; 	  		}
+			h1  	{	color: 141301;	            			} 
+			h2  	{	color: 141301;			             	} 
+			p1  	{	color: 4A5240; text-align:center;	} 
+			center	{display: block;margin-left: auto;margin-right: auto;width: auto;} 
+			div.a { text-align:center;                }
+		</style> 
+	</head> 
+
+	<body> 
+		<title> My Portfolio </title> 
+		<h1> I'm Syed Mohammed <br> Sirajulhaq </h1> 
+		<p> S/o: Syed Ali Ibrahim Najmuddin</p> <br> 
+		<img src="https://media.licdn.com/dms/image/D5603AQFtU_59aagCbA/profile-displayphoto-shrink_800_800/0/1689667928993?e=2147483647&v=beta&t=aahYj63p4KpceRhjkR8htFp8VJB2kS4AezXV68sppe4" alt="Syed Mohammed Sirajulhaq" width="200" height="200" class="center">
+		<div.a> 
+			<br> <p1> Founder | CEO | Blogger | Poet <br> Thinker, in search of Hustlers. </p1>
+		</div.a> 
+
+	<h2> Current Projects </h2> 
+	
+				<p> <a href=cupping.app> Cupping.app </a> </p> 
+		 
+				<p> <a href=sirajulhaq.substack.com> Transcribing Self </a> </p> 
+		
+				<p>  <a href=lords.ac.in/tbi> Lords TBI & E-Cell </a>  </p> 
+			
+	<h2> Education </h2> 
+		<ul> 
+			<li> 
+				<p> Schooling - KG to 10th <br> <b> Sultan Ul Uloom Public School</b> <br> Banjara Hills, Hyderabad. </p> 
+			</li> 
+			<li> 
+				<p> Intermediate - 11th & 12th <br> <b> Sri Chaitanya Junior Kalasala</b> <br> SR Nagar, Hyderabad. </p> 
+			</li> 
+			<li> 
+				<p> Graduation - Bachelors in Civil Engineering <br> <b> Lords Institute of Engineering & Technology</b> <br> Himayat Sagar, Hyderabad. </p> 
+			</li> 
+		</ul> 
+
+ 	<h2> Experience</h2>
+
+		<ul> 
+			<li> 
+				<p> Founder <br> SPADit  <br> </p> 
+			</li> 
+			<li> 
+				<p> COO <br> <a href= www.cupping.app> Cupping.app </a> <br> </p> 
+			</li> 
+			<li> 
+				<p> Chief Executive Officer <br> Lords TBI <br> </p> 
+			</li> 
+			<li> 
+				<p> Incubation Manager <br> Lords TBI <br> </p> 
+			</li> 
+			<li> 
+				<p> Marekting Communications Manager <br> CETMatrix <br> </p> 
+			</li> 
+			<li> 
+				<p> President (interim) <br> Lords E-Cell <br> </p> 
+			</li> 
+			<li> 
+				<p> Vice President <br> Lords E-Cell <br> </p> 
+			</li> 
+			<li> 
+				<p> Core Team Member <br> Lords E-Cell <br> </p> 
+			</li> 
+			<li> 
+				<p> Events Team Lead <br> Lords E-Cell <br> </p> 
+			</li> 
+			<li> 
+				<p> Documentation Incharge <br> Lords E-Cell <br> </p> 
+			</li> 
+			<li> 
+				<p> HR Coordinator <br> Lords E-Cell <br> </p> 
+			</li> 
+			
+		</ul> 
+	<h2> Languages </h2>
+		<ul> 
+			<li> 
+				<p> Urdu - Native </p> 
+			</li> 
+			<li> 
+				<p> English - Professional </p> 
+			</li> 
+			<li> 
+				<p> Hindi - Intermediate </p> 
+			</li> 
+			<li> 
+				<p> Arabic - Basic </p> 
+			</li> 
+		</ul> 
+ 		
+	<h2> Contact me </h2>
+		<ul> 
+			<li> 
+				<p> Call/text : <a href= wa.me/+919848932814> WhatsApp </a></p> 
+			</li> 
+			<li> 
+				<p> Email: <a href= mailto:sirajulhaq.in@gmail.com> Sirajulhaq.in@gmail.com </a></p> 
+			</li>  
+			<li> 
+				<p> LinkedIn: <a href= linkedin.com/syedmohammedsirajulhaq> Syed Mohammed Sirajulhaq </a> </p> 
+			</li> 
+			<li> 
+				<p> Twitter: <a href= x.com/sirajulhaq_in> @Sirajulhaq_in </a> </p> 
+			</li> 
+			<li> 
+				<p> Instagram: <a href= instagram.com/s.m.sirajulhaq> @S.M.Sirajulhaq </a> </p> 
+			</li> 
+			<li> 
+				<p> FYI: <a href= fyi.is> @Sirajulhaq </a></p> 
+			</li> 
+			<li> 
+				<p> Links: <a href= beacons.ai/sirajulhaq> @Sirajulhaq <a/> </p> 
+			</li> 
+			
+		</ul> 
+
+	<h2> Favourate Startup List </h2>
+		<ul> 
+			<li> 
+				<p> iWater.co.in </p> 
+			</li> 
+			<li> 
+				<p> Forever Cookies </p> 
+			</li> 
+			<li> 
+				<p> Goodmind.app </p> 
+			</li> 
+			<li> 
+				<p>  </p> 
+			</li> 
+			<li> 
+				<p>  </p> 
+			</li> 
+			<li> 
+				<p> Forever Cookies </p> 
+			</li> 
+			
+		</ul> 
+
+
+
+	</body>
+</html>
